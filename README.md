@@ -1,4 +1,4 @@
-**About Me**
+# Corey Bothwell
 
 Hello and welcome to my GitHub profile! My name is Corey, it's a pleasure to meet you.
 I am a young software engineer that loves to build! You've probably been linked here via a job application or resumé of mine given for a position at your company. 
@@ -12,7 +12,7 @@ I see myself as an excellent early hire and I would be a perfect fit for teams l
 
 My Modus Operandi is to **design**, **implement**, and **deliver** high perforiming features that **delight users**. 
 
-✨ **I have the following concrete qualifications**
+### ✨ I have the following concrete qualifications
 
 - 2.5 years experience in full-stack application developement with a product focus
 - Strong grasp of computer science fundamentals, including proper data structure and algorithm design along with number and graph theory fundamentals
@@ -22,7 +22,7 @@ My Modus Operandi is to **design**, **implement**, and **deliver** high perforim
 - Successful exit of a small 1-person startup (www.avhopper.com)
 - I also speak professional level German. :)
 
-🧙‍♂️ **I have particular experience with following stacks/technologies**
+### 🧙‍ I have particular experience with following stacks/technologies
 
 - Python with Django, especially Django REST Framework (DRF)
 - Java and the Spring Framework
@@ -43,7 +43,7 @@ My Modus Operandi is to **design**, **implement**, and **deliver** high perforim
 
 In the end I see technology as only an enabler of driving user value. I use boring technology where it's best suited, and hang out on the bleeding edge when it brings a competitive advatage. ;)
 
-✅ **I could be a good fit if your organisation if you're looking for someone who...**
+### ✅ I could be a good fit if your organisation if you're looking for someone who...
 
 - Has a strong sense of ownership of the product and takes responsibility for its improvement and development
 - Ideates over architecture and takes an active role in shaping the direction of important technical decisions
@@ -51,14 +51,15 @@ In the end I see technology as only an enabler of driving user value. I use bori
 - Keeps business value creation at the center of the development process
 - Has strong empathy for both colleagues and users and seeks concensus and a shared vision across all stakeholders
 
-📧 **You're perfect, let's get in touch!**
+### 📧 You're perfect, let's get in touch!
 
 If this sounds like a great fit, then wonderful! I look forward to speaking with you about how I can drive value for your organisation.
 
 You can reach me via:
 
-Email -  corey.bothwell@uzh.ch
-WhatsApp - +49 160 979 73805
+Email -> corey.bothwell@uzh.ch
+
+WhatsApp -> +49 16097973805
 
 My pronouns are they/them. 🙂
 

@@ -1,7 +1,7 @@
 # Corey Bothwell
 
-Hello and welcome to my GitHub profile! My name is Corey, it's a pleasure to meet you.
-I am a young software engineer that loves to build! You've probably been linked here via a job application or resumé of mine given for a position at your company. 
+Hello and welcome to my GitHub profile. My name is Corey, it's a pleasure to meet you.
+I am a young software engineer that loves to build. You've probably been linked here via a job application or resumé of mine given for a position at your company. 
 
 I am a current Master's student at the University of Zurich expecting to graduate in Summer 2022. I study computer science and **represent a strong technical hire** for an ambitious startup or technology firm. 
 

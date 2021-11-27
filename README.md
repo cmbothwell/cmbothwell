@@ -20,7 +20,7 @@ My Modus Operandi is to **design**, **implement**, and **deliver** high performi
 - Excellent grades in the following computer science courses: Data Structures & Algorithms, Software Architecture & Construction, Theoretical Computer Science, Software Engineering, Database Systems & Design, Number Theory
 - Experience developing blockchain based applications on the Ethereum Virtual Machine through my Master's Project
 - Successful exit of a small 1-person startup (www.avhopper.com)
-- I also speak professional level German. :)
+- I also speak professional level German
 
 ### 🧙‍ I have particular experience with following stacks/technologies
 
@@ -53,7 +53,7 @@ In the end I see technology as only an enabler of driving user value. I use bori
 
 ### 📧 You're perfect, let's get in touch!
 
-If this sounds like a great fit, then wonderful! I look forward to speaking with you about how I can drive value for your organisation.
+If this sounds like a great fit, then I look forward to speaking with you about how I can drive value for your organisation.
 
 You can reach me via:
 
@@ -61,7 +61,7 @@ Email -> corey.bothwell@uzh.ch
 
 WhatsApp -> +49 16097973805
 
-My pronouns are they/them. 🙂
+My pronouns are they/them.
 
 <!---
 cmbothwell/cmbothwell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

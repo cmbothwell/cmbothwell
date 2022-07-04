@@ -1,17 +1,5 @@
 # Corey Bothwell
 
-Hello and welcome to my GitHub profile. My name is Corey, it's a pleasure to meet you.
-I am a young software engineer that loves to build. You've probably been linked here via a job application or resumé of mine given for a position at your company. 
-
-I am a current Master's student at the University of Zurich expecting to graduate in Summer 2022. I study computer science and **represent a strong technical hire** for an ambitious startup or technology firm. 
-
-I am looking for mission-driven firms with strong visions and sense of strategy. I like to solve **hard** problems while having a **deep impact** on the end product.
-I appreciate ideating over **architecture** to ensure a stable and consistent product experience as well as **high developer velocity**, and I delight in finding and **squashing obscure bugs**.
-
-I see myself as an excellent early hire and I would be a perfect fit for teams looking for an **experienced contributor** who is a **strong communicator** with high levels of **empathy**. 
-
-My Modus Operandi is to **design**, **implement**, and **deliver** high performing features that **delight users**. 
-
 ### ✨ I have the following concrete qualifications
 
 - 2.5 years experience in full-stack application development with a product focus

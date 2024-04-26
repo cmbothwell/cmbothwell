@@ -1,6 +1,6 @@
 # Corey Bothwell
 
-Most of the repositories in this GitHub are private and thus not a helpful indication of the quality of my work our personality. 
+Most of the repositories in this GitHub are private and thus not a helpful indication of the quality of my work or personality. 
 Instead I invite you to view my personal website at: corey.bothwell.org for more information.
 
 You can always contact me at:
